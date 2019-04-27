@@ -1,2 +1,4 @@
 ﻿## Visual studio stuff
 #.vs
+/FSharpFun/bin/**
+/FSharpFun/obj/**
